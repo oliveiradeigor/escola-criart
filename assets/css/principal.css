@@ -7,7 +7,9 @@
     display: flex;
     flex-direction: row;
     align-items: flex-end;
-    background: rgb(59, 59, 84);
+    background: #e57c3a;
+    margin: 0 auto;
+    width: 80%;
     height: 100vh;
 }
 
@@ -21,10 +23,15 @@ img{
     
 }
 
-h1{
-    position: relative;
+.titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
     display: flex;
     align-self: center;
-    top: -50px;
+    margin-top: -300px;
+    color: white;
+    
+    
 }
 
