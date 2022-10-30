@@ -10,13 +10,13 @@ nav {
 nav > a {
     font-size: 19px;
     text-decoration: none;
-    color: #b85a2096;
+    color: #e57c3a;
     margin-right: 30px;
     font-weight: bold;
     
 }
 nav > a:hover {
-    background-color: rgba(166, 166, 243, 0.295);
+    background-color: #e57c3a2d;
     color: black;
     padding: 5px;
     transition-duration: 0.3s;
