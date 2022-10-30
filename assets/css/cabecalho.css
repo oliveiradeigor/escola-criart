@@ -4,7 +4,8 @@
     background-color: white;
     /*padding: 10px;*/
     box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.123);
-    padding: 10px 0;
+    /*padding: 10px 0;*/
+    padding: 15px 0;
 }
 .cabecalho__navegacao--link {
     font-size: 19px;
@@ -12,7 +13,6 @@
     color: #e57c3a;
     margin-right: 30px;
     font-weight: bold;
-    padding: px;
     
 }
 .cabecalho__navegacao--link:hover {

@@ -4,8 +4,9 @@
     .apresentacao {
         display: flex;
         width: 80%;
-        height: calc(100vh - 50px);
-        border: solid pink 1px;
+        height: 95vh;
+        /*border: solid pink 1px;*/
+        background: red;
         margin: 0 auto;
     }
 
