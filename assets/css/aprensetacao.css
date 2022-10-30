@@ -1,0 +1,55 @@
+
+@media screen and (min-width: 1000px) {
+
+    .apresentacao {
+        display: flex;
+        width: 80%;
+        height: calc(100vh - 50px);
+        border: solid pink 1px;
+        margin: 0 auto;
+    }
+
+    .apresentacao__descricaoContainer {
+        border: solid rgb(224, 174, 34) 1px;
+        width: 55%;
+        margin-left: 40px;
+    }
+
+    .apresentacao__boasVIndas--esquerda {
+        display: block;
+        margin-top: 15rem;
+        font-family: var(--fonte-mao);
+        font-size: 1.7rem;
+        
+    }
+
+    .apresentacao__titulo--centro {
+        text-transform: uppercase;
+        font-size: 2.5rem;
+    }
+
+    .apresentacao__titulo--span{
+        background: blue;
+    }
+
+    .apresentacao__descricao--esquerda {
+        display: block;
+        font-size: 1.7rem;
+        font-family: var(--fonte-mao);
+        text-align: justify;
+    }
+
+    .apresentacao__menino--esquerda {
+        display: flex;
+        align-self: flex-end;
+        /*display: block;*/
+        border: solid 1px green;
+        width: 35%;
+        height: 75%;
+        /*width: 900px;
+    height: 700px;*/
+        /*float: right;
+    vertical-align: baseline;*/
+        /*margin-left: 55%;*/
+    }
+}

@@ -1,7 +1,10 @@
 .cabecalho__navegacao{
+    width: 80%;
+    margin: 0 auto;
     background-color: white;
-    padding: 10px;
+    /*padding: 10px;*/
     box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.123);
+    padding: 10px 0;
 }
 .cabecalho__navegacao--link {
     font-size: 19px;
@@ -9,12 +12,13 @@
     color: #e57c3a;
     margin-right: 30px;
     font-weight: bold;
+    padding: px;
     
 }
 .cabecalho__navegacao--link:hover {
     background-color: #e57c3a2d;
     color: black;
-    padding: 5px;
+    /*padding: 5px;*/
     transition-duration: 0.3s;
     border-radius: 8px;
     font-weight: bolder;
