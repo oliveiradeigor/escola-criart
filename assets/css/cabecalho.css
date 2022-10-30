@@ -1,0 +1,22 @@
+.cabecalho__navegacao{
+    background-color: white;
+    padding: 10px;
+    box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.123);
+}
+.cabecalho__navegacao--link {
+    font-size: 19px;
+    text-decoration: none;
+    color: #e57c3a;
+    margin-right: 30px;
+    font-weight: bold;
+    
+}
+.cabecalho__navegacao--link:hover {
+    background-color: #e57c3a2d;
+    color: black;
+    padding: 5px;
+    transition-duration: 0.3s;
+    border-radius: 8px;
+    font-weight: bolder;
+    
+}

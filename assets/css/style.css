@@ -2,26 +2,3 @@ body{
     background: #9cd6c8;
 }
 
-nav {
-    background-color: white;
-    padding: 10px;
-    box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.123);
-}
-nav > a {
-    font-size: 19px;
-    text-decoration: none;
-    color: #e57c3a;
-    margin-right: 30px;
-    font-weight: bold;
-    
-}
-nav > a:hover {
-    background-color: #e57c3a2d;
-    color: black;
-    padding: 5px;
-    transition-duration: 0.3s;
-    border-radius: 8px;
-    font-weight: bolder;
-    
-    
-}
