@@ -23,15 +23,17 @@
 
     .principal__menino--esquerda {
         display: block;
-        position: absolute;
+        max-width: 800px;
+        max-height: 800px;
+        left: -100px;
         /*display: block;*/
         /*margin-left: auto;
     margin-right: auto;*/
-        width: 770px;
-        height: 800px;
+        /*max-width: 800px;
+        max-height: 600px;*/
         border: solid 1px red;
-        bottom: 0;
-        right: 10%;
+        /*bottom: 0;*/
+        /*right: -400px;*/
         /*margin: 0 auto;*/
     
     }
