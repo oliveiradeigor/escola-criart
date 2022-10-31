@@ -4,10 +4,10 @@
 
 body{
     /*background: rgb(26, 24, 24);*/
-    background-image: url('../img/background.png');
+    /*background-image: url('../img/background.png');
     background-size: cover;
-    background-repeat: no-repeat;
-    color: white;
+    background-repeat: no-repeat;*/
+    color: #F7FAFC;
     /*font-family: var(--fonte-open);*/
 }
 
