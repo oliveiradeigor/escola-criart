@@ -4,14 +4,14 @@
     .apresentacao {
         display: flex;
         width: 80%;
-        height: 95vh;
+        height: calc(100vh - 5rem);
         /*border: solid pink 1px;*/
         background: #5514FA;
         margin: 0 auto;
     }
 
     .apresentacao__descricaoContainer {
-        border: solid rgb(224, 174, 34) 1px;
+        /*border: solid rgb(224, 174, 34) 1px;*/
         width: 55%;
         margin-left: 40px;
     }
@@ -49,7 +49,7 @@
         display: flex;
         align-self: flex-end;
         /*display: block;*/
-        border: solid 1px green;
+        /*border: solid 1px green;*/
         width: 35%;
         height: 75%;
         /*width: 900px;
