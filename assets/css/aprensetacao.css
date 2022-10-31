@@ -6,7 +6,7 @@
         width: 80%;
         height: 95vh;
         /*border: solid pink 1px;*/
-        background: red;
+        background: #5514FA;
         margin: 0 auto;
     }
 
@@ -30,7 +30,12 @@
     }
 
     .apresentacao__titulo--span{
-        background: blue;
+        display: block;
+        background: #d408fd;
+        box-shadow: 5px 5px 5px #2b04335b;
+        padding: 1px;
+        margin-top: -5px;
+        border-radius: 15px;
     }
 
     .apresentacao__descricao--esquerda {
