@@ -5,6 +5,8 @@
 body{
     /*background: rgb(26, 24, 24);*/
     background-image: url('../img/background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
     color: white;
     /*font-family: var(--fonte-open);*/
 }
