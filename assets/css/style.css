@@ -3,7 +3,7 @@
 
 body{
     /*background: rgb(26, 24, 24);*/
-    background-image: linear-gradient(#8107E3, #460e74, #0d0116);
+    background-image: url(../img/background.png);
     color: white;
     font-family: var(--fonte-open);
 }
