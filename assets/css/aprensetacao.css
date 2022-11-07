@@ -5,7 +5,7 @@
         width: 80%;
         height: calc(100vh - 5rem);
         /*border: solid pink 1px;*/
-        background: #5514FA;
+        background: linear-gradient(#5514FA, #895bfd);
         margin: 0 auto;
     }
 
